@@ -1,3 +1,3 @@
 # testrepo
-# Editiong this line
+# Editing this line
 It is a markdown line for this repository.
